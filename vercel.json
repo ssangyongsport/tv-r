@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { 
+      "source": "/",
+      "destination": "https://communtiy.ssangyongsports.org",
+      "permanent": true
+    },
+    { 
+      "source": "/:path*",
+      "destination": "https://communtiy.ssangyongsports.org/:path*",
+      "permanent": true
+    }
+  ]
+}
